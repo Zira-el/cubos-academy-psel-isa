@@ -1,2 +1,3 @@
 # cubos-academy-psel-isa
-Resoluções dos desafios do hackrrank para o PSEL.
+Resoluções dos desafios do hackrrank para o curso PSEL da Cubos Academy.
+
