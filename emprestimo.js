@@ -1,5 +1,5 @@
 function solucao(ganhos, serasaScore, mesesParaPagar) {
-    //seu código aqui
+    
     let parcela = 0;
 
     if (serasaScore < 300) {

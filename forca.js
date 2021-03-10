@@ -1,5 +1,5 @@
 function solucao(palpite, palavra) {
-    // seu código aqui
+    
 
     let acerto = 0;
 

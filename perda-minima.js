@@ -1,5 +1,5 @@
 function solucao(precos) {
-    // seu código aqui
+    
 
     let a = 0;
 

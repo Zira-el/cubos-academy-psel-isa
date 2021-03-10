@@ -1,5 +1,5 @@
 function solucao(stringCorrompida) {
-    // seu código aqui
+    
     let palavra = "";
 
     for (count = 0; count < stringCorrompida.length; count++) {

@@ -1,5 +1,5 @@
 function solucao(produtos, valorMaximo, avaliacaoMinima) {
-    // seu código aqui
+   
     let aux = [];
 
     for (count = 0; count < produtos.length; count++) {
